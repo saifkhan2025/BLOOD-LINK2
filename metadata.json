@@ -1,0 +1,6 @@
+{
+  "name": "KHAN BLOOD LINK",
+  "description": "A web application to find and connect with voluntary blood donors in Bangladesh. Users can register, manage their profile, and search for donors by blood group and location. Includes an AI-powered feature to help compose messages to potential donors.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
